@@ -1,0 +1,17 @@
+body{
+    background-color: #f59622;
+    font-family: sans-serif;
+
+}
+button span{
+    font-family: "Libre Barcode 128 Text", system-ui;
+    padding: 30px 45px;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: .3s;
+}
+
+button span:hover{   
+     background-color: #ffffff;
+     opacity: 0.8;
+}
